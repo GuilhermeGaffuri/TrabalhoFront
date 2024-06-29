@@ -1,0 +1,7 @@
+*LOGIN*
+Name: Guilherme
+Email: guilhermegaffuri@gmail.com
+Senha: 12345678
+
+Pagina Home, sem muitas informaçoes, clicar no botão assistir que irá aparecer
+as informaçoes dos personagens 
